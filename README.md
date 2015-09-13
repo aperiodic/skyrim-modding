@@ -212,7 +212,7 @@ I find this to be a lot more immersive than the default highly-foggy weather, si
 
 [Project Reality - Climates of Tamriel](http://www.nexusmods.com/skyrim/mods/17802)
 
-If you're into this, you'll probably like the [realistic sun mod](http://www.nexusmods.com/skyrim/mods/17802), and also some [rainbows](http://www.nexusmods.com/skyrim/mods/25666)!
+If you're into this, you'll probably like the [realistic sun mod](http://www.nexusmods.com/skyrim/mods/42492), and also some [rainbows](http://www.nexusmods.com/skyrim/mods/25666)!
 
 #### Realistic Lighting Overhaul
 
