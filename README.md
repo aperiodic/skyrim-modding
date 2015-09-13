@@ -96,10 +96,12 @@ And here's some other performance stuff I cargo-culted from other places online,
 
 #### The [Display] Section
 
-The biggest thing here is widening up Skyrim's fairly narrow default FOV value:
+The biggest thing here is widening up Skyrim's fairly narrow default field-of-view value:
 ```
-fDefaultWorldFOV=85.0 -- I like 85 degrees, but you should see what you like.
+fDefaultWorldFOV=85.0
 ```
+ I like to use 85 degrees, but you should see what you like.
+ Going above 90 starts to get weird, unless you have a huge or multi-monitor setup.
 
 You can also increase how much pixel buffer space is dedicated to shadow calculation.
 This is a CPU-bound activity, and if you have a recent i5 or i7 you can and should crank this up to 4096 or 8192.
