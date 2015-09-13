@@ -294,8 +294,8 @@ These two mods add a buttload of styled armor and weapons that you can craft, fi
 The first time you install they'll take a while to initialize and register all their new stuff with the game.
 They might be more trouble than it's worth if this doesn't sound that intriguing to you.
 
-[Immersive Armors](http://www.nexusmods.com/skyrim/mods/19733)
-[Immersive Weapons](http://www.nexusmods.com/skyrim/mods/27644)
+* [Immersive Armors](http://www.nexusmods.com/skyrim/mods/19733)
+* [Immersive Weapons](http://www.nexusmods.com/skyrim/mods/27644)
 
 #### Cloaks of Skyrim
 
