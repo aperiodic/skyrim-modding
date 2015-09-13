@@ -229,7 +229,7 @@ Higher-res textures.
 I think they look pretty good, but I'm pretty sure there are other ones you could check out, too.
 They come in up to 4K-appropriate size, if you've got one of those monitors.
 
-[Skyrim HD](http://www.nexusmods.com/skyrim/mods/607) - http://www.nexusmods.com/skyrim/mods/607
+[Skyrim HD](http://www.nexusmods.com/skyrim/mods/607)
 
 #### Detailed Faces
 
@@ -254,7 +254,7 @@ Increases the detail in the lower-tier Level of Detail (LOD) meshes, which reduc
 
 This mod replaces the static low-LOD meshes for waterfalls and windmills with ones that are always animated.
 
-[SkyFalls & SkyMills](www.nexusmods.com/skyrim/mods/40564) -- www.nexusmods.com/skyrim/mods/40564
+[SkyFalls & SkyMills](www.nexusmods.com/skyrim/mods/40564)
 
 #### Immersive Roads
 
