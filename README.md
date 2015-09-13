@@ -40,10 +40,10 @@ to make you go really fast, and then
 ```
 TCL
 ```
-(mnemonically 'toggle clip'), which lets you fly since you don't interact with the ground any more (no clipping) and they had the good sense to turn the gravity off for you (though you don't have inertia either).
+(mnemonically 'toggle clip'), which lets you fly since you don't interact with the ground any more (no clipping) and they had the good sense to turn the gravity off for you.
 
 Then just fly around the map until it crashes.
-If it takes less than thirty seconds, you might get CTDs after an hour or three of play.
+If it takes less than thirty seconds, you might get CTDs after an hour or three of play, and sometimes you'll get unlucky enough to run into one after only five or ten minutes, especially in the crowded areas near and to the East of the Throat of the World.
 If you can make it for two minutes or more, you're probably fine.
 Unfortunately, to make the memory allocation stuff work better, you'll need to resort to patching the Skyrim executable itself.
 
@@ -143,12 +143,12 @@ A few of the most important and useful mods require this tool called the [SKSE](
 The SKSE can be downloaded [at this "website"](http://skse.silverlock.org/) (that is adorably obviously thrown together by a developer in ten minutes).
 I have mine installed standalone, not through Steam, but through Steam would probably be fine (my Skyrim *is* installed through Steam).
 The SKSE installer will make a wrapper for the Skyrim binary that must be launched instead of the Skyrim binary itself (so I don't think you can't launch it through Steam, but maybe you can change the executable Steam uses).
-If the wrapper is not launched then all the mods that use SKSE won't work, but this is pretty easy to notice (and I think some of them warn you) since the UI will look totally different without SkyUI).
+If the wrapper is not launched then all the mods that use SKSE won't work, but this is pretty easy to notice (and I think some of them warn you) since the UI will look totally different without SkyUI.
 
 ### Game Functionality Improvements
 
-The first mods you should install are those that just make the game more stable, make the UI easier to use, or remove bugs, without altering the game world in terms of assets or behavior or content or anything.
-There are three big ones: SkyUI, Stable uGridsToLoad, and then all the "Unofficial Bug Patches".
+The first mods you should install are those that just make the game more stable, make the UI easier to use, or remove bugs, without altering the gameplay at all.
+There are three big ones: SkyUI, Stable uGridsToLoad, and then all the "Unofficial Bug Patches", then a few other affordances.
 
 #### SkyUI
 
@@ -160,7 +160,7 @@ This is the #1 most popular Skyrim Nexus mod, because it just makes the inventor
 
 #### Stable uGridsToLoad
 
-This makes it so you don't have to be totally sure you can commit in order to mess around with the [uGridsToLoad value in Skyrim.ini](#uGridsToLoad).
+This makes it so you don't have to be totally sure you can commit to a new value when changing the [uGridsToLoad value in Skyrim.ini](#uGridsToLoad).
 
 [Stable uGridsToLoad](http://www.nexusmods.com/skyrim/mods/41592)
 
@@ -209,6 +209,7 @@ I find this water mod to look very nice, since it's much heavier on refraction, 
 
 Climates of Tamriel adds much more dynamic, realistic, and in my opinion picturesque weather.
 I find this to be a lot more immersive than the default highly-foggy weather, since it looks more like a real place I could be.
+It also makes interior lighting sync up with the weather, which really helps to subtly tie the simulation together in a nice way.
 
 [Project Reality - Climates of Tamriel](http://www.nexusmods.com/skyrim/mods/17802)
 
@@ -217,8 +218,7 @@ If you're into this, you'll probably like the [realistic sun mod](http://www.nex
 #### Realistic Lighting Overhaul
 
 Changes all of the interior lighting so the dynamic lights match up with the light sources actually in the scene.
-Subtle, but I found this to add a lot of realism to the interiors.
-It also makes interior lighting sync up with the weather, which is another subtle but strong effect.
+This is another consistency thing that really helps your brain feel like the spaces are real.
 To make this work well with Climates of Tamriel, don't install the interior or dungeon portions of Realistic Lighting Overhaul.
 
 [Realistic Lighting Overhaul](http://www.nexusmods.com/skyrim/mods/30450)
